@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+# ignore NODE.JS artifacts
+/node_modules
+
+npm-debug.log
+
+.DS_Store
+
+/*.env
